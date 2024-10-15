@@ -1,0 +1,17 @@
+{
+  "name": "env-ctrl",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "author": "Joakim L. Christiansen (https://joakimch.github.io)",
+  "repository": "github:JoakimCh/env-ctrl",
+  "funding": "https://joakimch.github.io/funding.html",
+  "bin": "./env-ctrl.js",
+  "description": "A CLI tool for launching other programs in an isolated environment (as in full control over which environment variables are available to it).",
+  "keywords": [
+    "isolated",
+    "environment",
+    "variable",
+    "variables"
+  ]
+}
